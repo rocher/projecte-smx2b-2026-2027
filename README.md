@@ -37,7 +37,7 @@ Preservar l'experiència tradicional: mantenir les miniatures i els daus físics
 
 BoardSinc inclou el disseny i el desenvolupament d'una eina digital que actuï com a complement dels jocs de wargame tradicionals. Aquesta eina ha de permetre gestionar els diferents elements del joc des d'un únic entorn, facilitant-ne la consulta i l'administració durant totes les fases de la partida.
 
-### HoloTech360
+### [HoloTech360](https://github.com/Nico-Frias/test)
 
 #### Projecte Hologrames 
 En aquest projecte, el que volem fer és implementar nu sistema d'holoframes que es pugui utilitzar en diferents situacions, ja sigui en l¡àmbit acadèmic, personal o empresarial.
