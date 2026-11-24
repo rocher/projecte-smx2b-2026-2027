@@ -218,8 +218,7 @@ Aquí adjuntaré un parell d'esquemes del meu projecte.
 
 <br>
 
-<img src="img/imagen(1).png" alt="Esquema del projecte PackGo" width="300"> <img src="img/imagen.png" alt="Segon esquema del projecte PackGo" width="300">
-
+<img src="img/PackGoEsquema1.png" alt="Esquema del projecte PackGo" width="300"> <img src="img/PackGoEsquema2.png" alt="Segon esquema del projecte PackGo" width="280">
 
 ### [RBridge](https://github.com/Afix-MAB/RBridge.git)
 ![Linux](https://img.shields.io/badge/SO-Linux-FCC624?logo=linux&logoColor=black)
